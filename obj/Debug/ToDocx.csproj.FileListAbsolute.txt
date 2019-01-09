@@ -1,0 +1,10 @@
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\bin\Debug\ToDocx.exe
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\bin\Debug\ToDocx.pdb
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.csprojAssemblyReference.cache
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.csproj.ResolveComReference.cache
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.Form1.resources
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.Properties.Resources.resources
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.csproj.GenerateResource.cache
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.csproj.CoreCompileInputs.cache
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.exe
+E:\Arthur's Home\c#学习\ToDocx\ToDocx\obj\Debug\ToDocx.pdb
